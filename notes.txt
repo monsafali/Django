@@ -1,0 +1,23 @@
+First_Lecture
+
+First Clear Virutual Invironment
+python -m venv .env
+then activated it
+source .env/bin/activate
+ then install django
+ pip install django
+ then create a django project 
+  django-admin startproject 1_django_Temp
+'DIRS': [os.path.join(BASE_DIR, 'template')],
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
+
+
+
+
+
+
+
+
+
+
+  
